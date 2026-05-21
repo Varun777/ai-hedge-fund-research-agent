@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+daily_memo.md
+.DS_Store
