@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 daily_memo.md
 .DS_Store
+local.settings.json
+.venv
